@@ -1,0 +1,11 @@
+In this code i display 3d view for house using :
+- visual studio 
+- c++
+- opengl
+
+i can move with arrows up, down, right, left
+
+i can use camera zome in and zoom out with page-up and page-down
+
+with light in the back side
+
